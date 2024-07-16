@@ -1,6 +1,6 @@
 import { Navbar, Container, Nav, Button, NavDropdown } from "react-bootstrap";
 import { Link, NavLink, useNavigate } from "react-router-dom";
-import logo from "../../assets/imagenes/logoCatalogo.png";
+import logo from "../../assets/imagenes/InicioIcono.png";
 import { useEffect, useState } from "react";
 import Swal from "sweetalert2";
 import InicioLogo from "../../assets/imagenes/InicioIcono.png"
@@ -31,7 +31,7 @@ const Menu = ({ usuarioLogueado, setUsuarioLogueado }) => {
         <>
             <Navbar expand="lg" bg="dark" data-bs-theme="dark">
                 <Container>
-                    <Navbar.Brand href="/"><img src={logo} alt="Logo de la pagina" className="logoMenu" /></Navbar.Brand>
+                    <Navbar.Brand href="/"><img id="logo-home" src={logo} alt="Logo de la pagina" className="logoMenu" /></Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Nav className="ms-auto">
