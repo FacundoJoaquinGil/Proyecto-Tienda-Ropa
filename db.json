@@ -1,17 +1,17 @@
 {
   "prendas": [
     {
-      "nombrePrenda": "Remera nwe balance - hombre",
+      "nombrePrenda": "Remera new balance - hombre",
       "precio": "7000",
-      "imagen": "https://www.newbalance.com.ar/media/catalog/product/cache/4/thumbnail/9df78eab33525d08d6e5fb8d27136e95/r/e/remera-hombre-new-balancefast-flight-short-sleeve-mt11240cp1_nb_40_i_1.jpg",
+      "imagen": "https://s3.sa-east-1.amazonaws.com/www.vaypol.com.ar/variants/hybs7zok071nbz3mybczdgv1l68b/c77c2a06864ac9aca38dc5bd9371de015471edcdbf322dfb14411689bf968ae5",
       "categoria": "Remeras",
       "color": "#af4b4b",
       "talle": "L",
-      "descripcion": "Remera deportiva color salmon, con tela \"aqui va el nombre de la tela\" ",
+      "descripcion": "Remera deportiva color negra fabricada con tela de avion",
       "id": 2
     },
     {
-      "nombrePrenda": "Pantalon adidas - hombre",
+      "nombrePrenda": "Pantalon Umbro - hombre",
       "precio": "7000",
       "imagen": "https://umbroar.vtexassets.com/arquivos/ids/2292453-800-auto?v=638140588902700000&width=800&height=auto&aspect=true",
       "categoria": "Pantalones Largos",
@@ -53,11 +53,11 @@
     {
       "nombrePrenda": "Pantalon new balance - hombre",
       "precio": "5000",
-      "imagen": "https://www.newbalance.com.ar/media/catalog/product/cache/4/thumbnail/9df78eab33525d08d6e5fb8d27136e95/p/a/pantalon-hombre-new-balance-essentials-embroidered-mp11590sbu_70-min.jpg",
+      "imagen": "https://acdn.mitiendanube.com/stores/001/165/935/products/pantalon-hombre-new-balance-essentials-n2l1550105501-83926c4c6ab3150f1c16656990198839-1024-1024.jpg",
       "categoria": "Pantalones Largos",
       "color": "#0096d6",
       "talle": "L",
-      "descripcion": "Pantalon new balance color celeste",
+      "descripcion": "Pantalon largo marca new balance color negro tela de algodon, ideal para ir al gym",
       "id": 7
     },
     {
@@ -67,7 +67,7 @@
       "categoria": "Remeras",
       "color": "#00ff04",
       "talle": "M",
-      "descripcion": "Remera addidas verde de algodon para mujer",
+      "descripcion": "Remera adidas verde de algodon para mujer",
       "id": 8
     },
     {
@@ -77,7 +77,7 @@
       "categoria": "Remeras",
       "color": "#ffffff",
       "talle": "S",
-      "descripcion": "Remera addidas color blanca para mujer",
+      "descripcion": "Remera adidas color blanca para mujer",
       "id": 9
     },
     {
@@ -91,17 +91,17 @@
       "id": 10
     },
     {
-      "nombrePrenda": "Remera hunder armor azul  - hombre",
+      "nombrePrenda": "Remera Under Armor  - hombre",
       "precio": "6000",
       "imagen": "https://www.underarmour.com.ar/on/demandware.static/-/Sites-underarmour_staging/default/dw963086f4/new_images/1367066/195251243105/195251243105-1.jpeg",
       "categoria": "Remeras",
       "color": "#082b63",
       "talle": "L",
-      "descripcion": "Remera hunder armor color azul oscuro para varon",
+      "descripcion": "Remera marca under armor color azul oscuro para varon",
       "id": 11
     },
     {
-      "nombrePrenda": "Reloj Xiaomi Lite Redmi Watch ",
+      "nombrePrenda": "Reloj Smartwatch Redmi Xiaomi Lite",
       "precio": "50000",
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_795835-MLA49011477232_022022-F.webp",
       "categoria": "Accesorios",
