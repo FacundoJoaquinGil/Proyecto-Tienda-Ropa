@@ -40,11 +40,11 @@ const DetalleProductoInicio = () => {
                         <p className="fw-bold ">Categoria: <span className="fw-normal">{producto.categoria}</span></p>
                         <p className="fw-bold ">Talle: <span className="fw-normal">{producto.talle}</span></p>
                         <p className="fw-bold ">Descripcion: <span className="fw-normal">{producto.descripcion}</span></p>
-                        <p className="fw-bold">Color: <span className="fw-normal p-1" style={{ backgroundColor: producto.color}}>{producto.color}</span></p>  
+                        <p className="fw-bold">Color: <span className="fw-normal p-1">{producto.color}</span></p>  
                         <p className="fw-bold">Precio: <span className="fw-normal">${producto.precio}</span></p>
                         <Link className="btn btn-primary"
                             target="_blank"
-                            to={`https://api.whatsapp.com/send?phone=3816097754&text=¡Hola! Estoy interesado en tu producto:${productoWp}`}>
+                            to={`https://api.whatsapp.com/send?phone=3816566750&text=%C2%A1Hola!%20Estoy%20interesado%20en%20tu%20producto:${productoWp}`}>
                             Ir al WP
                         </Link>
                     </article>
